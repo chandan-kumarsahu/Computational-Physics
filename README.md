@@ -5,7 +5,7 @@ The codes require minimum use of python libraries serve the purpose of basic sta
 
 To run the codes, you require the file "CPL_Library.ipynb". Importing may require different ssytem requirements. This assignmnet pavkage uses inline run for the library functions.
 
-## Brief description of assignments:
+## Brief description of contents:
   Assignment 1 : Basic algebra to get handy with python.
   
   Assignment 2 : Introduction to matrix algebra.
